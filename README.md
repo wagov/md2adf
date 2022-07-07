@@ -1,7 +1,7 @@
 # md2adf
-Markdown to Atlassian Document Format api
+Markdown to Atlassian Document Format and wikimarkup api
 
-Exposes a single typescript function that receives markdown as a HTTP GET or POST body, and returns it converted to Atlassian Document Format (ADF) json.
+Exposes a single typescript function that receives markdown as a HTTP GET or POST body, and returns it converted to Atlassian Document Format (ADF) json or wikimarkup text.
 
 Uses [MarkdownTransformer](https://atlaskit.atlassian.com/packages/editor/editor-markdown-transformer) and [JSONTransformer](https://atlaskit.atlassian.com/packages/editor/editor-json-transformer) from [Atlaskit](https://atlaskit.atlassian.com/).
 
