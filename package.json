@@ -11,7 +11,8 @@
   },
   "dependencies": {
     "@atlaskit/editor-json-transformer": "^8.7.6",
-    "@atlaskit/editor-markdown-transformer": "^4.2.10"
+    "@atlaskit/editor-markdown-transformer": "^4.2.10",
+    "@atlaskit/editor-wikimarkup-transformer": "^11.0.10"
   },
   "devDependencies": {
     "@azure/functions": "^3.0.0",
